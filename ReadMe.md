@@ -18,6 +18,10 @@
 
 # Modeling
 
-  In this file I am performing SVM to meet assignment requirements but I am also performing a stacked model as well.
+  In this file I am performing SVM to meet assignment requirements.
 
-   
+  I will come back to this file later to accomplish a better score as well.
+
+# Notes
+
+  You can fin further explanation of routes taken within the files themselves. 
