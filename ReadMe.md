@@ -8,4 +8,16 @@
 
 # EDA
 
-  The data exploration is done in the file EDA. In this file we will examine the data, both training and test, clean the data, and write it back to S3. This is so that we can import the cleaned data into a modeling file for modeling specifically. 
+  The data exploration is done in the file EDA. In this file we will examine the data, both training and test, clean the data, and write it back to S3. This is so that we can import the cleaned data into a modeling file for modeling specifically.
+
+  As an avid player of battle royale video games I was excited to learn that this was a competition on Kaggle.
+
+  Based on the data I am hoping to look at some of my initial assumption about the data that I discuss in the EDA document.
+
+  From the EDA file I will do any cleaning that is needed and then write back to S3 for use in a separate modeling file.
+
+# Modeling
+
+  In this file I am performing SVM to meet assignment requirements but I am also performing a stacked model as well.
+
+   
